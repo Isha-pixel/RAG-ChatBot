@@ -12,8 +12,8 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/AlaGrine/RAG_chatabot_with_Langchain/blob/main/data/docs/RAG_architecture.png" width="80%">
-  <figcaption><i>RAG architecture with LangChain components</i></figcaption>
+  <img src="https://github.com/AlaGrine/RAG_chatabot_with_Langchain/blob/main/data/docs/RAG_architecture.png" >
+  <figcaption>RAG architecture with Langchain components.</figcaption>
 </div>
 
 ---
