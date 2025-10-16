@@ -1,5 +1,4 @@
-# Retrieval-Augmented Generation (RAG) Chatbot  
-### using LangChain, OpenAI, Google Generative AI, and Hugging Face
+# Retrieval-Augmented Generation (RAG) Chatbot using LangChain, OpenAI, Google Generative AI, and Hugging Face
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python"></a>
