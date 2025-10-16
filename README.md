@@ -13,7 +13,6 @@
 
 <div align="center">
   <img src="https://github.com/Isha-pixel/RAG-ChatBot/blob/main/data/RAG_architecture_new.png" width="80%">
-  <figcaption>RAG architecture with Langchain components.</figcaption>
 </div>
 
 ---
