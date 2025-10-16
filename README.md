@@ -44,7 +44,7 @@ A simple and interactive **Streamlit** interface is also included for real-time 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 - Python **3.9+**
@@ -65,7 +65,7 @@ The full list of requirements can be found in `requirements.txt`
 
 ## Instructions <a name="instructions"></a>
 
-Option 1 — Run the Streamlit App locally:
+### Option 1 — Run the Streamlit App locally:
 
 1. Create a virtual environment: `python -m venv langchain_env`
 2. Activate the virtual environment : `.\langchainenv\Scripts\activate` on Windows.
@@ -77,7 +77,7 @@ Option 1 — Run the Streamlit App locally:
 8. Chat with your documents: ask questions and get AI answers.
 
 
-Option 2 — Run the RAG Script or Notebook:
+### Option 2 — Run the RAG Script or Notebook:
 
 1. Open run_RAG_code.ipynb in Jupyter or Colab and run all cells sequentially.
 2. Create a .env file in the root directory:
@@ -91,7 +91,7 @@ Option 2 — Run the RAG Script or Notebook:
 
 ---
 
-##Architecture Summary
+## Architecture Summary
 
 Document Loader → Reads and parses files in multiple formats
 Text Splitter → Divides text into manageable semantic chunks
