@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/AlaGrine/RAG_chatabot_with_Langchain/blob/main/data/docs/RAG_architecture.png" >
+  <img src="https://github.com/Isha-pixel/RAG-ChatBot/blob/main/data/RAG_architecture_new.png" width="80%">
   <figcaption>RAG architecture with Langchain components.</figcaption>
 </div>
 
